@@ -9,8 +9,8 @@ csv file has 506 training examples, and 13 features.
 <br> First part of the notebook deals with Explore Data Analysis </br>
 <br> Questions we ask or wonder..? </br>
 <br> Does price of home goes down as crime rate increases? </br>
-<br> What affects the p<img width="400" alt="Screen Shot 2021-10-12 at 3 32 31 PM" src="https://user-images.githubusercontent.com/84426364/137017838-7aa3dd32-bb7c-4584-8ee8-95b03d63e7e3.png">
-rice of home in Boston? </br>
+<br> What affects the price of home in Boston? </br>
+<img width="400" alt="Screen Shot 2021-10-12 at 3 32 31 PM" src="https://user-images.githubusercontent.com/84426364/137017838-7aa3dd32-bb7c-4584-8ee8-95b03d63e7e3.png">
 
 
 
