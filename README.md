@@ -2,7 +2,7 @@
 Framework used: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
 Notebook contains great details about regression in machine learning using LaTeX.
-(<img width="400" alt="Screen Shot 2021-10-12 at 3 22 55 PM" src="https://user-images.githubusercontent.com/84426364/137017628-be97ce59-9542-4b6f-a3bf-44778cb145a5.png">
+<br> (<img width="400" alt="Screen Shot 2021-10-12 at 3 22 55 PM" src="https://user-images.githubusercontent.com/84426364/137017628-be97ce59-9542-4b6f-a3bf-44778cb145a5.png"> </br>
 
 csv file has 506 training examples, and 13 features.
 <br> We try to predict median value of owner-occupied homes in $1000's [k$]</br>
